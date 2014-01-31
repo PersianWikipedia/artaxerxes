@@ -9,8 +9,8 @@ which can be find on COPYING.
 
 Download
 --------
-TTF, EOT and WOFF versions are downloadable from [release tab](https://github.com/PersianWikipedia/persianfonts/releases).
+Download TTF, EOT and WOFF from [release tab](https://github.com/PersianWikipedia/persianfonts/releases).
 
 How to use web font? Read [this](https://github.com/PersianWikipedia/persianfonts#how-to-use).
 
-DO NOT use Xerxes.ttf from old folder which is not usable as a web font.
+DO NOT use [Xerxes.ttf](http://persian.ir/images/7/70/Xerxes.ttf) from old folder which is not usable as a web font.
