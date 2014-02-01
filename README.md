@@ -9,7 +9,7 @@ which can be find on COPYING.
 
 Download
 --------
-Download TTF, EOT and WOFF from [release tab](https://github.com/PersianWikipedia/persianfonts/releases).
+Download TTF, EOT and WOFF from [release tab](https://github.com/PersianWikipedia/artaxerxes/releases).
 
 How to use web font? Read [this](https://github.com/PersianWikipedia/persianfonts#how-to-use).
 
